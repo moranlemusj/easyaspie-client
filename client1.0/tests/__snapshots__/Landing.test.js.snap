@@ -1,0 +1,1682 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LandingComponent renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#fff",
+      "flex": 1,
+      "flexDirection": "column",
+      "justifyContent": "space-between",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#ffffff",
+        "borderBottomColor": "#48B9D0",
+        "borderBottomWidth": 1.5,
+        "display": "flex",
+        "flexDirection": "row",
+        "height": 100,
+        "justifyContent": "space-between",
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "top": "3%",
+          "width": "30%",
+        }
+      }
+    >
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        collapsable={undefined}
+        hitSlop={undefined}
+        isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "alignSelf": "flex-start",
+            "backgroundColor": "white",
+            "display": "flex",
+            "height": 50,
+            "justifyContent": "center",
+            "left": 10,
+            "opacity": 1,
+            "padding": 0,
+            "top": 30,
+            "width": 50,
+            "zIndex": 1,
+          }
+        }
+        testID={undefined}
+        tvParallaxProperties={undefined}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          disabled={false}
+          ellipsizeMode="tail"
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "backgroundColor": "#f2f2f2",
+            "height": 40,
+            "left": "12%",
+            "top": "5%",
+            "width": 2,
+            "zIndex": 55,
+          }
+        }
+      />
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        collapsable={undefined}
+        hitSlop={undefined}
+        isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "alignSelf": "flex-start",
+            "backgroundColor": "white",
+            "display": "flex",
+            "height": 50,
+            "justifyContent": "center",
+            "left": 10,
+            "opacity": 1,
+            "padding": 0,
+            "top": 30,
+            "width": 50,
+            "zIndex": 1,
+          }
+        }
+        testID={undefined}
+        tvParallaxProperties={undefined}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          disabled={false}
+          ellipsizeMode="tail"
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "left": "50%",
+          "position": "absolute",
+          "top": "50%",
+          "transform": Array [
+            Object {
+              "translateX": -35,
+            },
+            Object {
+              "translateY": -20,
+            },
+          ],
+          "zIndex": 20,
+        }
+      }
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "height": 50,
+            "width": 70,
+          }
+        }
+      />
+    </View>
+    <View>
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        collapsable={undefined}
+        hitSlop={undefined}
+        isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "alignSelf": "flex-start",
+            "backgroundColor": "white",
+            "display": "flex",
+            "height": 50,
+            "justifyContent": "center",
+            "left": 10,
+            "marginRight": 20,
+            "opacity": 1,
+            "padding": 0,
+            "top": 30,
+            "width": 50,
+            "zIndex": 1,
+          }
+        }
+        testID={undefined}
+        tvParallaxProperties={undefined}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          disabled={false}
+          ellipsizeMode="tail"
+        />
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "borderColor": "#48B9D0",
+        "borderRadius": 7,
+        "borderWidth": 1.5,
+        "marginTop": 84,
+        "minWidth": "33%",
+        "position": "absolute",
+        "shadowColor": "#000000",
+        "shadowOffset": Object {
+          "height": 3,
+          "width": 0,
+        },
+        "shadowOpacity": 0.3,
+        "shadowRadius": 5,
+        "zIndex": 1,
+      }
+    }
+  >
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "display": "flex",
+              "flexDirection": "row",
+              "padding": 8,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            disabled={false}
+            ellipsizeMode="tail"
+            style={
+              Object {
+                "color": "#333",
+                "fontFamily": "raleway-blackitalic",
+              }
+            }
+          >
+             
+            Load More
+             
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#fff",
+        "flex": 1,
+        "height": "100%",
+        "justifyContent": "center",
+        "width": "100%",
+      }
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      disabled={false}
+      ellipsizeMode="tail"
+    >
+       Loading 
+    </Text>
+    <View />
+  </View>
+  <View />
+</View>
+`;
+
+exports[`LandingComponent should not be affected by props 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Landing
+    foo="bar"
+  />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "class",
+    "props": Object {
+      "children": Array [
+        <OwnHeader
+          collapsed={true}
+          map={true}
+          modalSearch={null}
+          toggleList={[Function]}
+        />,
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "white",
+              "borderColor": "#48B9D0",
+              "borderRadius": 7,
+              "borderWidth": 1.5,
+              "marginTop": 84,
+              "minWidth": "33%",
+              "position": "absolute",
+              "shadowColor": "#000000",
+              "shadowOffset": Object {
+                "height": 3,
+                "width": 0,
+              },
+              "shadowOpacity": 0.3,
+              "shadowRadius": 5,
+              "zIndex": 1,
+            }
+          }
+        >
+          <TouchableOpacity
+            activeOpacity={0.2}
+            onPress={[Function]}
+          >
+            <View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "display": "flex",
+                    "flexDirection": "row",
+                    "padding": 8,
+                  }
+                }
+              >
+                <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  disabled={false}
+                  ellipsizeMode="tail"
+                  style={
+                    Object {
+                      "color": "#333",
+                      "fontFamily": "raleway-blackitalic",
+                    }
+                  }
+                >
+                   
+                  Load More
+                   
+                </Text>
+              </View>
+            </View>
+          </TouchableOpacity>
+        </View>,
+        <Map
+          renderWhat={true}
+          triggerLogoChange={[Function]}
+          triggerModal={[Function]}
+          triggerModalSearch={[Function]}
+        />,
+        <ModalSearch
+          triggerFilter={[Function]}
+        />,
+      ],
+      "style": Object {
+        "alignItems": "center",
+        "backgroundColor": "#fff",
+        "flex": 1,
+        "flexDirection": "column",
+        "justifyContent": "space-between",
+      },
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "collapsed": true,
+          "map": true,
+          "modalSearch": null,
+          "toggleList": [Function],
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "children": <TouchableOpacity
+            activeOpacity={0.2}
+            onPress={[Function]}
+          >
+            <View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "display": "flex",
+                    "flexDirection": "row",
+                    "padding": 8,
+                  }
+                }
+              >
+                <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  disabled={false}
+                  ellipsizeMode="tail"
+                  style={
+                    Object {
+                      "color": "#333",
+                      "fontFamily": "raleway-blackitalic",
+                    }
+                  }
+                >
+                   
+                  Load More
+                   
+                </Text>
+              </View>
+            </View>
+          </TouchableOpacity>,
+          "style": Object {
+            "alignItems": "center",
+            "backgroundColor": "white",
+            "borderColor": "#48B9D0",
+            "borderRadius": 7,
+            "borderWidth": 1.5,
+            "marginTop": 84,
+            "minWidth": "33%",
+            "position": "absolute",
+            "shadowColor": "#000000",
+            "shadowOffset": Object {
+              "height": 3,
+              "width": 0,
+            },
+            "shadowOpacity": 0.3,
+            "shadowRadius": 5,
+            "zIndex": 1,
+          },
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "activeOpacity": 0.2,
+            "children": <View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "display": "flex",
+                    "flexDirection": "row",
+                    "padding": 8,
+                  }
+                }
+              >
+                <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  disabled={false}
+                  ellipsizeMode="tail"
+                  style={
+                    Object {
+                      "color": "#333",
+                      "fontFamily": "raleway-blackitalic",
+                    }
+                  }
+                >
+                   
+                  Load More
+                   
+                </Text>
+              </View>
+            </View>,
+            "onPress": [Function],
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "children": <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "display": "flex",
+                    "flexDirection": "row",
+                    "padding": 8,
+                  }
+                }
+              >
+                <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  disabled={false}
+                  ellipsizeMode="tail"
+                  style={
+                    Object {
+                      "color": "#333",
+                      "fontFamily": "raleway-blackitalic",
+                    }
+                  }
+                >
+                   
+                  Load More
+                   
+                </Text>
+              </View>,
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "children": <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  disabled={false}
+                  ellipsizeMode="tail"
+                  style={
+                    Object {
+                      "color": "#333",
+                      "fontFamily": "raleway-blackitalic",
+                    }
+                  }
+                >
+                   
+                  Load More
+                   
+                </Text>,
+                "style": Object {
+                  "alignItems": "center",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "padding": 8,
+                },
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "accessible": true,
+                  "allowFontScaling": true,
+                  "children": Array [
+                    " ",
+                    "Load More",
+                    " ",
+                  ],
+                  "disabled": false,
+                  "ellipsizeMode": "tail",
+                  "style": Object {
+                    "color": "#333",
+                    "fontFamily": "raleway-blackitalic",
+                  },
+                },
+                "ref": null,
+                "rendered": Array [
+                  " ",
+                  "Load More",
+                  " ",
+                ],
+                "type": [Function],
+              },
+              "type": [Function],
+            },
+            "type": [Function],
+          },
+          "type": [Function],
+        },
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "renderWhat": true,
+          "triggerLogoChange": [Function],
+          "triggerModal": [Function],
+          "triggerModalSearch": [Function],
+        },
+        "ref": "map",
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "triggerFilter": [Function],
+        },
+        "ref": "modalSearch",
+        "rendered": null,
+        "type": [Function],
+      },
+    ],
+    "type": [Function],
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "class",
+      "props": Object {
+        "children": Array [
+          <OwnHeader
+            collapsed={true}
+            map={true}
+            modalSearch={null}
+            toggleList={[Function]}
+          />,
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderColor": "#48B9D0",
+                "borderRadius": 7,
+                "borderWidth": 1.5,
+                "marginTop": 84,
+                "minWidth": "33%",
+                "position": "absolute",
+                "shadowColor": "#000000",
+                "shadowOffset": Object {
+                  "height": 3,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.3,
+                "shadowRadius": 5,
+                "zIndex": 1,
+              }
+            }
+          >
+            <TouchableOpacity
+              activeOpacity={0.2}
+              onPress={[Function]}
+            >
+              <View>
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "padding": 8,
+                    }
+                  }
+                >
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    disabled={false}
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#333",
+                        "fontFamily": "raleway-blackitalic",
+                      }
+                    }
+                  >
+                     
+                    Load More
+                     
+                  </Text>
+                </View>
+              </View>
+            </TouchableOpacity>
+          </View>,
+          <Map
+            renderWhat={true}
+            triggerLogoChange={[Function]}
+            triggerModal={[Function]}
+            triggerModalSearch={[Function]}
+          />,
+          <ModalSearch
+            triggerFilter={[Function]}
+          />,
+        ],
+        "style": Object {
+          "alignItems": "center",
+          "backgroundColor": "#fff",
+          "flex": 1,
+          "flexDirection": "column",
+          "justifyContent": "space-between",
+        },
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "collapsed": true,
+            "map": true,
+            "modalSearch": null,
+            "toggleList": [Function],
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "children": <TouchableOpacity
+              activeOpacity={0.2}
+              onPress={[Function]}
+            >
+              <View>
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "padding": 8,
+                    }
+                  }
+                >
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    disabled={false}
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#333",
+                        "fontFamily": "raleway-blackitalic",
+                      }
+                    }
+                  >
+                     
+                    Load More
+                     
+                  </Text>
+                </View>
+              </View>
+            </TouchableOpacity>,
+            "style": Object {
+              "alignItems": "center",
+              "backgroundColor": "white",
+              "borderColor": "#48B9D0",
+              "borderRadius": 7,
+              "borderWidth": 1.5,
+              "marginTop": 84,
+              "minWidth": "33%",
+              "position": "absolute",
+              "shadowColor": "#000000",
+              "shadowOffset": Object {
+                "height": 3,
+                "width": 0,
+              },
+              "shadowOpacity": 0.3,
+              "shadowRadius": 5,
+              "zIndex": 1,
+            },
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "activeOpacity": 0.2,
+              "children": <View>
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "padding": 8,
+                    }
+                  }
+                >
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    disabled={false}
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#333",
+                        "fontFamily": "raleway-blackitalic",
+                      }
+                    }
+                  >
+                     
+                    Load More
+                     
+                  </Text>
+                </View>
+              </View>,
+              "onPress": [Function],
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "children": <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "padding": 8,
+                    }
+                  }
+                >
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    disabled={false}
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#333",
+                        "fontFamily": "raleway-blackitalic",
+                      }
+                    }
+                  >
+                     
+                    Load More
+                     
+                  </Text>
+                </View>,
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "children": <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    disabled={false}
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#333",
+                        "fontFamily": "raleway-blackitalic",
+                      }
+                    }
+                  >
+                     
+                    Load More
+                     
+                  </Text>,
+                  "style": Object {
+                    "alignItems": "center",
+                    "display": "flex",
+                    "flexDirection": "row",
+                    "padding": 8,
+                  },
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "accessible": true,
+                    "allowFontScaling": true,
+                    "children": Array [
+                      " ",
+                      "Load More",
+                      " ",
+                    ],
+                    "disabled": false,
+                    "ellipsizeMode": "tail",
+                    "style": Object {
+                      "color": "#333",
+                      "fontFamily": "raleway-blackitalic",
+                    },
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    " ",
+                    "Load More",
+                    " ",
+                  ],
+                  "type": [Function],
+                },
+                "type": [Function],
+              },
+              "type": [Function],
+            },
+            "type": [Function],
+          },
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "renderWhat": true,
+            "triggerLogoChange": [Function],
+            "triggerModal": [Function],
+            "triggerModalSearch": [Function],
+          },
+          "ref": "map",
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "triggerFilter": [Function],
+          },
+          "ref": "modalSearch",
+          "rendered": null,
+          "type": [Function],
+        },
+      ],
+      "type": [Function],
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;
+
+exports[`LandingComponent should not be affected by props 2`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Landing
+    foo="bar"
+    random="prop"
+  />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "class",
+    "props": Object {
+      "children": Array [
+        <OwnHeader
+          collapsed={true}
+          map={true}
+          modalSearch={null}
+          toggleList={[Function]}
+        />,
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "white",
+              "borderColor": "#48B9D0",
+              "borderRadius": 7,
+              "borderWidth": 1.5,
+              "marginTop": 84,
+              "minWidth": "33%",
+              "position": "absolute",
+              "shadowColor": "#000000",
+              "shadowOffset": Object {
+                "height": 3,
+                "width": 0,
+              },
+              "shadowOpacity": 0.3,
+              "shadowRadius": 5,
+              "zIndex": 1,
+            }
+          }
+        >
+          <TouchableOpacity
+            activeOpacity={0.2}
+            onPress={[Function]}
+          >
+            <View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "display": "flex",
+                    "flexDirection": "row",
+                    "padding": 8,
+                  }
+                }
+              >
+                <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  disabled={false}
+                  ellipsizeMode="tail"
+                  style={
+                    Object {
+                      "color": "#333",
+                      "fontFamily": "raleway-blackitalic",
+                    }
+                  }
+                >
+                   
+                  Load More
+                   
+                </Text>
+              </View>
+            </View>
+          </TouchableOpacity>
+        </View>,
+        <Map
+          renderWhat={true}
+          triggerLogoChange={[Function]}
+          triggerModal={[Function]}
+          triggerModalSearch={[Function]}
+        />,
+        <ModalSearch
+          triggerFilter={[Function]}
+        />,
+      ],
+      "style": Object {
+        "alignItems": "center",
+        "backgroundColor": "#fff",
+        "flex": 1,
+        "flexDirection": "column",
+        "justifyContent": "space-between",
+      },
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "collapsed": true,
+          "map": true,
+          "modalSearch": null,
+          "toggleList": [Function],
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "children": <TouchableOpacity
+            activeOpacity={0.2}
+            onPress={[Function]}
+          >
+            <View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "display": "flex",
+                    "flexDirection": "row",
+                    "padding": 8,
+                  }
+                }
+              >
+                <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  disabled={false}
+                  ellipsizeMode="tail"
+                  style={
+                    Object {
+                      "color": "#333",
+                      "fontFamily": "raleway-blackitalic",
+                    }
+                  }
+                >
+                   
+                  Load More
+                   
+                </Text>
+              </View>
+            </View>
+          </TouchableOpacity>,
+          "style": Object {
+            "alignItems": "center",
+            "backgroundColor": "white",
+            "borderColor": "#48B9D0",
+            "borderRadius": 7,
+            "borderWidth": 1.5,
+            "marginTop": 84,
+            "minWidth": "33%",
+            "position": "absolute",
+            "shadowColor": "#000000",
+            "shadowOffset": Object {
+              "height": 3,
+              "width": 0,
+            },
+            "shadowOpacity": 0.3,
+            "shadowRadius": 5,
+            "zIndex": 1,
+          },
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "activeOpacity": 0.2,
+            "children": <View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "display": "flex",
+                    "flexDirection": "row",
+                    "padding": 8,
+                  }
+                }
+              >
+                <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  disabled={false}
+                  ellipsizeMode="tail"
+                  style={
+                    Object {
+                      "color": "#333",
+                      "fontFamily": "raleway-blackitalic",
+                    }
+                  }
+                >
+                   
+                  Load More
+                   
+                </Text>
+              </View>
+            </View>,
+            "onPress": [Function],
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "children": <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "display": "flex",
+                    "flexDirection": "row",
+                    "padding": 8,
+                  }
+                }
+              >
+                <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  disabled={false}
+                  ellipsizeMode="tail"
+                  style={
+                    Object {
+                      "color": "#333",
+                      "fontFamily": "raleway-blackitalic",
+                    }
+                  }
+                >
+                   
+                  Load More
+                   
+                </Text>
+              </View>,
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "children": <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  disabled={false}
+                  ellipsizeMode="tail"
+                  style={
+                    Object {
+                      "color": "#333",
+                      "fontFamily": "raleway-blackitalic",
+                    }
+                  }
+                >
+                   
+                  Load More
+                   
+                </Text>,
+                "style": Object {
+                  "alignItems": "center",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "padding": 8,
+                },
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "accessible": true,
+                  "allowFontScaling": true,
+                  "children": Array [
+                    " ",
+                    "Load More",
+                    " ",
+                  ],
+                  "disabled": false,
+                  "ellipsizeMode": "tail",
+                  "style": Object {
+                    "color": "#333",
+                    "fontFamily": "raleway-blackitalic",
+                  },
+                },
+                "ref": null,
+                "rendered": Array [
+                  " ",
+                  "Load More",
+                  " ",
+                ],
+                "type": [Function],
+              },
+              "type": [Function],
+            },
+            "type": [Function],
+          },
+          "type": [Function],
+        },
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "renderWhat": true,
+          "triggerLogoChange": [Function],
+          "triggerModal": [Function],
+          "triggerModalSearch": [Function],
+        },
+        "ref": "map",
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "triggerFilter": [Function],
+        },
+        "ref": "modalSearch",
+        "rendered": null,
+        "type": [Function],
+      },
+    ],
+    "type": [Function],
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "class",
+      "props": Object {
+        "children": Array [
+          <OwnHeader
+            collapsed={true}
+            map={true}
+            modalSearch={null}
+            toggleList={[Function]}
+          />,
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "white",
+                "borderColor": "#48B9D0",
+                "borderRadius": 7,
+                "borderWidth": 1.5,
+                "marginTop": 84,
+                "minWidth": "33%",
+                "position": "absolute",
+                "shadowColor": "#000000",
+                "shadowOffset": Object {
+                  "height": 3,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.3,
+                "shadowRadius": 5,
+                "zIndex": 1,
+              }
+            }
+          >
+            <TouchableOpacity
+              activeOpacity={0.2}
+              onPress={[Function]}
+            >
+              <View>
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "padding": 8,
+                    }
+                  }
+                >
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    disabled={false}
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#333",
+                        "fontFamily": "raleway-blackitalic",
+                      }
+                    }
+                  >
+                     
+                    Load More
+                     
+                  </Text>
+                </View>
+              </View>
+            </TouchableOpacity>
+          </View>,
+          <Map
+            renderWhat={true}
+            triggerLogoChange={[Function]}
+            triggerModal={[Function]}
+            triggerModalSearch={[Function]}
+          />,
+          <ModalSearch
+            triggerFilter={[Function]}
+          />,
+        ],
+        "style": Object {
+          "alignItems": "center",
+          "backgroundColor": "#fff",
+          "flex": 1,
+          "flexDirection": "column",
+          "justifyContent": "space-between",
+        },
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "collapsed": true,
+            "map": true,
+            "modalSearch": null,
+            "toggleList": [Function],
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "children": <TouchableOpacity
+              activeOpacity={0.2}
+              onPress={[Function]}
+            >
+              <View>
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "padding": 8,
+                    }
+                  }
+                >
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    disabled={false}
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#333",
+                        "fontFamily": "raleway-blackitalic",
+                      }
+                    }
+                  >
+                     
+                    Load More
+                     
+                  </Text>
+                </View>
+              </View>
+            </TouchableOpacity>,
+            "style": Object {
+              "alignItems": "center",
+              "backgroundColor": "white",
+              "borderColor": "#48B9D0",
+              "borderRadius": 7,
+              "borderWidth": 1.5,
+              "marginTop": 84,
+              "minWidth": "33%",
+              "position": "absolute",
+              "shadowColor": "#000000",
+              "shadowOffset": Object {
+                "height": 3,
+                "width": 0,
+              },
+              "shadowOpacity": 0.3,
+              "shadowRadius": 5,
+              "zIndex": 1,
+            },
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "activeOpacity": 0.2,
+              "children": <View>
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "padding": 8,
+                    }
+                  }
+                >
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    disabled={false}
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#333",
+                        "fontFamily": "raleway-blackitalic",
+                      }
+                    }
+                  >
+                     
+                    Load More
+                     
+                  </Text>
+                </View>
+              </View>,
+              "onPress": [Function],
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "children": <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "padding": 8,
+                    }
+                  }
+                >
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    disabled={false}
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#333",
+                        "fontFamily": "raleway-blackitalic",
+                      }
+                    }
+                  >
+                     
+                    Load More
+                     
+                  </Text>
+                </View>,
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "children": <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    disabled={false}
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#333",
+                        "fontFamily": "raleway-blackitalic",
+                      }
+                    }
+                  >
+                     
+                    Load More
+                     
+                  </Text>,
+                  "style": Object {
+                    "alignItems": "center",
+                    "display": "flex",
+                    "flexDirection": "row",
+                    "padding": 8,
+                  },
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "accessible": true,
+                    "allowFontScaling": true,
+                    "children": Array [
+                      " ",
+                      "Load More",
+                      " ",
+                    ],
+                    "disabled": false,
+                    "ellipsizeMode": "tail",
+                    "style": Object {
+                      "color": "#333",
+                      "fontFamily": "raleway-blackitalic",
+                    },
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    " ",
+                    "Load More",
+                    " ",
+                  ],
+                  "type": [Function],
+                },
+                "type": [Function],
+              },
+              "type": [Function],
+            },
+            "type": [Function],
+          },
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "renderWhat": true,
+            "triggerLogoChange": [Function],
+            "triggerModal": [Function],
+            "triggerModalSearch": [Function],
+          },
+          "ref": "map",
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "triggerFilter": [Function],
+          },
+          "ref": "modalSearch",
+          "rendered": null,
+          "type": [Function],
+        },
+      ],
+      "type": [Function],
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;
+
+exports[`Testing functions triggerLogoChange changes the logo, when the function is called 1`] = `undefined`;
+
+exports[`Testing functions triggerLogoChange changes the logo, when the function is called 2`] = `undefined`;
+
+exports[`Testing functions triggerLogoChange changes the logo, when the function is called 3`] = `undefined`;
+
+exports[`Testing functions triggerLogoChange changes the logo, when the function is called 4`] = `undefined`;
+
+exports[`Testing functions triggers a rerender 1`] = `undefined`;
+
+exports[`Testing functions triggers the modal when caled 1`] = `undefined`;

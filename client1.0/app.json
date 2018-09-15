@@ -1,5 +1,17 @@
 {
   "expo": {
-    "sdkVersion": "22.0.0"
+    "name": "Condensed",
+    "icon": "./assets/logo__easyaspie.png",
+    "version": "1.0.2",
+    "description": "Restaurant ratings condensed from the cosmos",
+    "slug": "condensed",
+    "sdkVersion": "22.0.0",
+    "privacy": "public",
+    "ios": {
+      "bundleIdentifier": "com.condensed.condensed"
+    },
+    "android": {
+      "package": "com.condensed.condensed"
+    }
   }
 }

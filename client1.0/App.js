@@ -1,23 +1,27 @@
-import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import React from "react";
+import { View } from "react-native";
+import { Font } from "expo";
+
+import Landing from "./containers/LandingComponent";
 
 export default class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = { fontLoaded: false };
+  }
+
+  async componentWillMount() {
+    await Font.loadAsync({
+      raleway: require("./assets/fonts/Raleway/Raleway-Regular.ttf"),
+      "raleway-blackitalic": require("./assets/fonts/Raleway/Raleway-BlackItalic.ttf")
+    });
+    this.setState({ fontLoaded: true });
+  }
+
+  renderApp = () => {
+    return this.state.fontLoaded ? <Landing /> : <View />;
+  };
   render() {
-    return (
-      <View style={styles.container}>
-        <Text>Open up App.js to start working on your app!</Text>
-        <Text>Changes you make will automatically reload.</Text>
-        <Text>Shake your phone to open the developer menu.</Text>
-      </View>
-    );
+    return this.renderApp();
   }
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
